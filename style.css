@@ -1,0 +1,38 @@
+#heading {
+  color:white;
+  background-color: lightblue;
+  border-radius:20px;
+  padding:10px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top:5px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+#copyrightfooter {
+  margin-top:15px;
+  background-color: skyblue;
+  text-align: center;
+  border-radius: 100px;
+  padding:1px;
+  padding-top:10px;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas{
+  border-color: skyblue;
+  border-radius: 20px;
+}
+
+input {
+  border-radius:5px;
+  margin-top:500px;
+  border:none;
+  padding:5px;
+}
